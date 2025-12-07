@@ -20,6 +20,7 @@ dependencies = [
 
 [project.scripts]
 fioemu = "fioemu.__main__:main"
+fiocli = "fioemu.cli:main"
 
 [tool.hatchling.build.targets.wheel]
 packages = ["fioemu"]

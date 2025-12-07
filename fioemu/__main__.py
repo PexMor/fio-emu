@@ -15,6 +15,7 @@ from fioemu.app import create_app
 from fioemu.config import Config
 from fioemu.routers import (
     by_id,
+    emu,
     import_,
     last,
     last_statement,
@@ -78,6 +79,7 @@ def main() -> None:
     app = create_app(config)
 
     # Include routers
+    app.include_router(emu.router)  # Emulator control endpoints
     app.include_router(periods.router)
     app.include_router(by_id.router)
     app.include_router(last.router)

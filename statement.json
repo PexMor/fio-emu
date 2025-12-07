@@ -1,0 +1,1264 @@
+{
+  "accountStatement": {
+    "info": {
+      "accountId": "7670272893",
+      "bankId": "0800",
+      "currency": "CZK",
+      "iban": "CZ08000000007670272893",
+      "bic": "GIBACZPX",
+      "openingBalance": 0.0,
+      "closingBalance": 3303.23,
+      "dateStart": 1704140878000,
+      "dateEnd": 1706652032000,
+      "yearList": null,
+      "idList": null,
+      "idFrom": 1437032204,
+      "idTo": 1437048014,
+      "idLastDownload": 1437048010
+    },
+    "transactionList": {
+      "transaction": [
+        {
+          "column22": {
+            "value": 1437035210,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1704140878000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -5395.09,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Trvalý příkaz",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156302210,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "3006241917",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0600",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Česká spořitelna, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Svoboda, David",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437035300,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1704229512000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 6326.95,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Platba převodem do jiné banky",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156302137,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "8216673814",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0600",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Česká spořitelna, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Dvořák, Pavel",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": " ",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column9": {
+            "value": "Svoboda, Alena",
+            "name": "Proved1",
+            "id": 9
+          },
+          "column25": {
+            "value": "",
+            "name": "Komentář",
+            "id": 25
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437034745,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1704350317000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -3150.82,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Připsaný úrok",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156300806,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": null,
+          "column3": null,
+          "column4": null,
+          "column5": null,
+          "column6": null,
+          "column7": null,
+          "column9": null,
+          "column10": null,
+          "column12": null,
+          "column16": null,
+          "column18": null,
+          "column25": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437045910,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1704513206000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 7524.38,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Připsaná provize",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156304919,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": null,
+          "column3": null,
+          "column4": null,
+          "column5": null,
+          "column6": null,
+          "column7": null,
+          "column9": null,
+          "column10": null,
+          "column12": null,
+          "column16": null,
+          "column18": null,
+          "column25": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437035274,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1704545373000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 7459.71,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Příjem převodem z jiné banky",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156302433,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "5841947968",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0800",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Fio banka, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Svoboda, Anna",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": " ",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437042320,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1704588749000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 5950.81,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Příjem převodem uvnitř banky",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156306413,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "7133083190",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "2010",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Česká spořitelna, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Novák, Jiří",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": " ",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column25": {
+            "value": "",
+            "name": "Komentář",
+            "id": 25
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437036026,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1704972687000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -9384.56,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Připsaný úrok",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156300376,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": null,
+          "column3": null,
+          "column4": null,
+          "column5": null,
+          "column6": null,
+          "column7": null,
+          "column9": null,
+          "column10": null,
+          "column12": null,
+          "column16": null,
+          "column18": null,
+          "column25": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437039918,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1704982063000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 7090.96,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Platba převodem do jiné banky",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156305510,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "3133236699",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0800",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Komerční banka, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Horák, Jiří",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": "",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column9": {
+            "value": "Doležal, Pavel",
+            "name": "Proved1",
+            "id": 9
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437033849,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1705015599000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -8346.79,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Kartová transakce",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156300818,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "8574538537",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0600",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Raiffeisenbank a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Král, David",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": "",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437032540,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1705203062000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 397.47,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Připsaná provize",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156300355,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": null,
+          "column3": null,
+          "column4": null,
+          "column5": null,
+          "column6": null,
+          "column7": null,
+          "column9": null,
+          "column10": null,
+          "column12": null,
+          "column16": null,
+          "column18": null,
+          "column25": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437043124,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1705215503000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -2244.6,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Platba převodem uvnitř banky",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156306045,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "5752067057",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0800",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Raiffeisenbank a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column25": {
+            "value": "",
+            "name": "Komentář",
+            "id": 25
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437041240,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1705371192000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 4911.1,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Připsaná provize",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156301589,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": null,
+          "column3": null,
+          "column4": null,
+          "column5": null,
+          "column6": null,
+          "column7": null,
+          "column9": null,
+          "column10": null,
+          "column12": null,
+          "column16": null,
+          "column18": null,
+          "column25": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437032946,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1705409529000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -1162.01,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Trvalý příkaz",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156299923,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "6257497729",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "2010",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "UniCredit Bank Czech Republic and Slovakia, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Procházka, Jiří",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437048014,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1705690959000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 6810.82,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "SIPO",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156303527,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "9144171605",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "2700",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "UniCredit Bank Czech Republic and Slovakia, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Novák, Jana",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": "",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column9": {
+            "value": "Růžička, Jiří",
+            "name": "Proved1",
+            "id": 9
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437033896,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1705721703000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -8099.65,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Výběr z bankomatu",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156300201,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "3563333470",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0600",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Fio banka, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Procházka, Lucie",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437040709,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1706000020000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 6701.79,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Inkaso",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156301283,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "3147562456",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0800",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Moneta Money Bank, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Král, Lukáš",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": " ",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437037374,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1706047800000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -7114.07,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "SIPO",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156303834,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "9406055712",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0800",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Česká spořitelna, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Svoboda, Jana",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": " ",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column9": {
+            "value": "Růžička, Pavel",
+            "name": "Proved1",
+            "id": 9
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437032204,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1706244112000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -7542.25,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Platba převodem uvnitř banky",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156299753,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "9403591004",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0600",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Raiffeisenbank a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Sedláček, David",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column7": {
+            "value": "",
+            "name": "Uživatelská identifikace",
+            "id": 7
+          },
+          "column9": {
+            "value": "Procházka, Jan",
+            "name": "Proved1",
+            "id": 9
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437034226,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1706398065000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": -902.95,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Platba převodem do jiné banky",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156302255,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "8756938954",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "0800",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Česká spořitelna, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column10": {
+            "value": "Novák, Pavel",
+            "name": "Názevprotiúčtu",
+            "id": 10
+          },
+          "column9": {
+            "value": "Novotný, Kateřina",
+            "name": "Proved1",
+            "id": 9
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        },
+        {
+          "column22": {
+            "value": 1437034364,
+            "name": "ID pohybu",
+            "id": 22
+          },
+          "column0": {
+            "value": 1706652032000,
+            "name": "Datum",
+            "id": 0
+          },
+          "column1": {
+            "value": 3472.03,
+            "name": "Objem",
+            "id": 1
+          },
+          "column14": {
+            "value": "CZK",
+            "name": "Měna",
+            "id": 14
+          },
+          "column8": {
+            "value": "Příjem převodem uvnitř banky",
+            "name": "Typ",
+            "id": 8
+          },
+          "column17": {
+            "value": 2156301353,
+            "name": "ID pokynu",
+            "id": 17
+          },
+          "column2": {
+            "value": "9286737794",
+            "name": "Protiúčet",
+            "id": 2
+          },
+          "column3": {
+            "value": "2700",
+            "name": "Kód banky",
+            "id": 3
+          },
+          "column12": {
+            "value": "Komerční banka, a.s.",
+            "name": "Název banky",
+            "id": 12
+          },
+          "column4": {
+            "value": "0558",
+            "name": "KS",
+            "id": 4
+          },
+          "column9": {
+            "value": "Černý, Anna",
+            "name": "Proved1",
+            "id": 9
+          },
+          "column5": null,
+          "column6": null,
+          "column16": null,
+          "column18": null,
+          "column26": null
+        }
+      ]
+    }
+  }
+}
