@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling>=1.0.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fioemu"
+version = "0.1.0"
+description = "FIO Banking API Emulator"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
+    "pydantic>=2.9.0",
+    "pydantic-settings>=2.6.0",
+    "pyyaml>=6.0.2",
+    "tomli>=2.0.1",
+    "python-multipart>=0.0.12",
+]
+
+[project.scripts]
+fioemu = "fioemu.__main__:main"
+
+[tool.hatchling.build.targets.wheel]
+packages = ["fioemu"]
+
