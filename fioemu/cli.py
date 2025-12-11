@@ -123,6 +123,26 @@ def generate_order_id(base_id: int, index: int) -> int:
     return base_id + index * random.randint(50, 500)
 
 
+def generate_vs() -> str:
+    """Generate a variable symbol (VS) - 10 digits."""
+    return str(random.randint(1000000000, 9999999999))
+
+
+def generate_ss() -> str:
+    """Generate a specific symbol (SS) - 10 digits."""
+    return str(random.randint(1000000000, 9999999999))
+
+
+def generate_ks() -> str:
+    """Generate a constant symbol (KS) - 4 digits."""
+    # Common KS values in Czech banking
+    common_ks = ["0558", "0308", "1142", "0008", "0300"]
+    # Sometimes use common value, sometimes random
+    if random.random() > 0.3:
+        return random.choice(common_ks)
+    return str(random.randint(1000, 9999)).zfill(4)
+
+
 def generate_amount(
     min_amount: Optional[float] = None,
     max_amount: Optional[float] = None,
@@ -186,7 +206,10 @@ def generate_transaction(
             "name": "Název banky",
             "id": 12,
         }
-        transaction["column4"] = {"value": "0558", "name": "KS", "id": 4}
+        # Add payment symbols (KS, VS, SS)
+        transaction["column4"] = {"value": generate_ks(), "name": "KS", "id": 4}
+        transaction["column5"] = {"value": generate_vs(), "name": "VS", "id": 5}
+        transaction["column6"] = {"value": generate_ss(), "name": "SS", "id": 6}
 
         # Sometimes add account name
         if random.random() > 0.3:
@@ -199,7 +222,7 @@ def generate_transaction(
         # Sometimes add user identification
         if random.random() > 0.5:
             transaction["column7"] = {
-                "value": random.choice(["", " ", f"VS{random.randint(1000, 9999)}"]),
+                "value": random.choice(["", " ", f"Nákup: {generate_account_name()}"]),
                 "name": "Uživatelská identifikace",
                 "id": 7,
             }
@@ -225,7 +248,7 @@ def generate_transaction(
             transaction[f"column{col_id}"] = None
 
     # Set remaining columns to null
-    for col_id in [5, 6, 16, 18, 26]:
+    for col_id in [16, 18, 26]:
         if f"column{col_id}" not in transaction:
             transaction[f"column{col_id}"] = None
 
