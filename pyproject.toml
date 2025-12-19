@@ -16,11 +16,13 @@ dependencies = [
     "pyyaml>=6.0.2",
     "tomli>=2.0.1",
     "python-multipart>=0.0.12",
+    "rich>=13.0.0",
 ]
 
 [project.scripts]
 fioemu = "fioemu.__main__:main"
 fiocli = "fioemu.cli:main"
+fioview = "fioemu.viewer:main"
 
 [tool.hatchling.build.targets.wheel]
 packages = ["fioemu"]
